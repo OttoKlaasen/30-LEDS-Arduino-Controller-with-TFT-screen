@@ -1,5 +1,6 @@
 30 Led ControllerArduino with Audio VU-meter and
 with TFT screen.
+Several LED modes can be selected like PACMAN, all kind of colors.
 
 This page has the Arduino Sketch and the STL files to 3d print a housing.
 Parts:
@@ -12,4 +13,4 @@ Optional FAN. https://www.aliexpress.com/item/1910412689.html?spm=a2g0s.9042311.
 External connector https://www.aliexpress.com/item/32865861864.html?spm=a2g0s.9042311.0.0.27424c4dACnnPg
 Fuse https://www.aliexpress.com/item/32843507610.html?spm=a2g0s.9042311.0.0.27424c4dpoaeRQ
 
-Microphone can be any simpel one.
+Microphone can be any simple microphone.
